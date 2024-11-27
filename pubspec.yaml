@@ -1,0 +1,26 @@
+name: daad_form
+description: "A daad Flutter package for customizable form fields"
+version: 0.0.2
+homepage: https://github.com/devanios/daad.form
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  #plugin: 
+    #platforms:
+      #android:
+        #package: com.example.daad_form
+        #pluginClass: DAADFormPlugin
+      #ios:
+        #pluginClass: DAADFormPlugin
